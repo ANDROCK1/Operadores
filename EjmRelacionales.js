@@ -50,14 +50,3 @@ if  (calificacion >= calificacionMinima) {
     } else {
         console.log("el estudiante no ha aprobado el curso");
         }
-
-
-
-
-
-
-
-
-
-
-
